@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Place this file in:
+  app/src/main/res/drawable/ic_launcher_foreground.xml
+
+  Then in app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+  and ic_launcher_round.xml, reference it as:
+    <foreground android:drawable="@drawable/ic_launcher_foreground"/>
+    <background android:mipmap="@color/ic_launcher_background"/>
+
+  Also add to res/values/colors.xml:
+    <color name="ic_launcher_background">#7B39FD</color>
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Mortarboard cap top (flat square rotated 45°) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 L82,34 L54,48 L26,34 Z" />
+
+    <!-- Cap brim shadow -->
+    <path
+        android:fillColor="#E8D5FF"
+        android:pathData="M54,48 L82,34 L82,38 L54,52 Z" />
+
+    <!-- Left side of cap -->
+    <path
+        android:fillColor="#F0E6FF"
+        android:pathData="M26,34 L54,48 L54,52 L26,38 Z" />
+
+    <!-- Tassel string -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M82,34 L82,50"
+        android:fillColor="#00000000" />
+
+    <!-- Tassel ball -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M82,50 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+
+    <!-- Book left page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,56 L52,56 L52,84 Q40,80 28,84 Z" />
+
+    <!-- Book right page -->
+    <path
+        android:fillColor="#E8D5FF"
+        android:pathData="M56,56 L80,56 L80,84 Q68,80 56,84 Z" />
+
+    <!-- Book spine -->
+    <path
+        android:fillColor="#D4B0FF"
+        android:pathData="M52,56 L56,56 L56,84 L52,84 Z" />
+
+    <!-- Lines on left page -->
+    <path
+        android:strokeColor="#7B39FD"
+        android:strokeWidth="1.5"
+        android:pathData="M33,64 L47,64 M33,70 L47,70 M33,76 L47,76"
+        android:fillColor="#00000000" />
+
+    <!-- Lines on right page -->
+    <path
+        android:strokeColor="#9C6FFF"
+        android:strokeWidth="1.5"
+        android:pathData="M61,64 L75,64 M61,70 L75,70 M61,76 L75,76"
+        android:fillColor="#00000000" />
+</vector>

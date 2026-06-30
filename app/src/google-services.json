@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608206851310",
+    "project_id": "akashuniversity-579b5",
+    "storage_bucket": "akashuniversity-579b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608206851310:android:a26b6c0d3ce46697d7f7ff",
+        "android_client_info": {
+          "package_name": "com.Akash.university"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7Bt_F__6FDrTe37eihxCjsxoN__WAi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608206851310:android:8b5581f3077cb520d7f7ff",
+        "android_client_info": {
+          "package_name": "com.example.digitaluniversity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7Bt_F__6FDrTe37eihxCjsxoN__WAi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
