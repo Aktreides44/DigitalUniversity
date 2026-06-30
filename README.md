@@ -138,21 +138,11 @@ firebase deploy --only functions
 ```
 
 ### 5. Run the app
-Open the project in Android Studio and run on an emulator or device.
+Open the project in Android Studio and run on an emulator or device. On an android device will be downloaded if only set to developer mode
 
 ---
 
-## Screenshots
 
-| Login | Student Dashboard | Course Detail |
-|---|---|---|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
-
-| Assignments | Chat | Grades |
-|---|---|---|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
-
----
 
 ## License
 
